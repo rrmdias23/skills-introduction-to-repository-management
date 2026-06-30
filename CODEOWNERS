@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rrmdias23
+/src/backend/database.py      @rrmdias23
+/src/backend/routers/auth.py  @rrmdias23
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rrmdias23
